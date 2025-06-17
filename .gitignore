@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg
+*.egg-info/
+.coverage
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+# Data
+data/*.csv
+data/*.xlsx
+# Other
+*~
+*.log
+.google_colab/
